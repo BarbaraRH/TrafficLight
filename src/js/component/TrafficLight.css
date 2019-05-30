@@ -1,0 +1,8 @@
+main {
+  height: 100%;
+  display: grid;
+}
+
+span {
+  margin: auto;
+}
